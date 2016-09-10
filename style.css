@@ -42,11 +42,47 @@ a.aboutlink {
 }
 
 a.aboutlink:hover {
-  color: #ED81AE;
+  color: #FFFFFF;
 }
 
 a.aboutlink:active {
+  color: #FFFFFF;
+}
+
+a.watchlink {
+  color: #007D50;
+}
+
+a.watchlink:hover {
+  color: #FFFFFF;
+}
+
+a.watchlink:active {
+  color: #FFFFFF;
+}
+
+a.collaboratelink {
   color: #ED81AE;
+}
+
+a.collaboratelink:hover {
+  color: #FFFFFF;
+}
+
+a.collaboratelink:active {
+  color: #FFFFFF;
+}
+
+a.investlink {
+  color: #E93E3A;
+}
+
+a.investlink:hover {
+  color: #FFFFFF;
+}
+
+a.investlink:active {
+  color: #FFFFFF;
 }
 
 .clients{
